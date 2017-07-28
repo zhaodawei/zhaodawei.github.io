@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://weicode.com/"/>
-  <updated>2017-07-28T12:50:05.000Z</updated>
+  <updated>2017-07-28T14:14:12.000Z</updated>
   <id>http://weicode.com/</id>
   
   <author>
@@ -19,12 +19,13 @@
     <title>Hello World</title>
     <link href="http://weicode.com/2017/07/28/hello-world/"/>
     <id>http://weicode.com/2017/07/28/hello-world/</id>
-    <published>2017-07-28T12:50:05.000Z</published>
-    <updated>2017-07-28T12:50:05.000Z</updated>
+    <published>2017-07-28T14:14:12.000Z</published>
+    <updated>2017-07-28T14:14:12.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;&lt;div id=&quot;sequence-0&quot;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.27/webfontloader.js&quot;&gt;&lt;/script&gt;&lt;script 
     
     </summary>
     
