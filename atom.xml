@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://weicode.com/"/>
-  <updated>2017-07-28T14:23:09.000Z</updated>
+  <updated>2017-07-28T14:33:05.000Z</updated>
   <id>http://weicode.com/</id>
   
   <author>
@@ -16,17 +16,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Diagram TC/IP</title>
+    <title>图解TCP/IP（第五版）读书笔记</title>
     <link href="http://weicode.com/2017/07/28/Diagram-TC-IP/"/>
     <id>http://weicode.com/2017/07/28/Diagram-TC-IP/</id>
     <published>2017-07-28T14:17:44.000Z</published>
-    <updated>2017-07-28T14:23:09.000Z</updated>
+    <updated>2017-07-28T14:33:05.000Z</updated>
     
     <summary type="html">
     
       &lt;h3 id=&quot;图解TCP-IP（第五版）读书笔记&quot;&gt;&lt;a href=&quot;#图解TCP-IP（第五版）读书笔记&quot; class=&quot;headerlink&quot; title=&quot;图解TCP/IP（第五版）读书笔记&quot;&gt;&lt;/a&gt;图解TCP/IP（第五版）读书笔记&lt;/h3&gt;&lt;h4 id=&quot;第1章-网
     
     </summary>
+    
+      <category term="Reading Notes" scheme="http://weicode.com/categories/Reading-Notes/"/>
     
     
       <category term="TCP/IP" scheme="http://weicode.com/tags/TCP-IP/"/>
