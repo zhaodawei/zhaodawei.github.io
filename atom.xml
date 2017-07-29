@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://weicode.com/"/>
-  <updated>2017-07-29T08:45:57.000Z</updated>
+  <updated>2017-07-29T13:35:20.000Z</updated>
   <id>http://weicode.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>选择排序算法</title>
+    <link href="http://weicode.com/2017/07/29/selection-sort/"/>
+    <id>http://weicode.com/2017/07/29/selection-sort/</id>
+    <published>2017-07-29T13:31:40.000Z</published>
+    <updated>2017-07-29T13:35:20.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;选择排序（Selection sort）是一种简单直观的排序算法。它的工作原理如下。首先在未排序序列中找到最小（大）元素，存放到排序序列的起始位置，然后，再从剩余未排序元素中继续寻找最小（大）元素，然后放到已排序序列的末尾。以此类推，直到所有元素均排序完毕。&lt;/p&gt;
+&lt;p&gt;
+    
+    </summary>
+    
+      <category term="排序算法" scheme="http://weicode.com/categories/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="排序算法" scheme="http://weicode.com/tags/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>图解TCP/IP（第五版）读书笔记</title>
