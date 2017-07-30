@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://weicode.com/"/>
-  <updated>2017-07-29T17:24:37.000Z</updated>
+  <updated>2017-07-30T03:26:40.000Z</updated>
   <id>http://weicode.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>快速排序算法</title>
+    <link href="http://weicode.com/2017/07/30/quick-sort/"/>
+    <id>http://weicode.com/2017/07/30/quick-sort/</id>
+    <published>2017-07-30T03:25:30.000Z</published>
+    <updated>2017-07-30T03:26:40.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;快速排序（英语：Quicksort），又称划分交换排序（partition-exchange sort），一种排序算法，最早由东尼·霍尔提出。在平均状况下，排序n个项目要Ο(n log n)次比较。在最坏状况下则需要Ο(n2)次比较，但这种状况并不常见。事实上，快速排序通常
+    
+    </summary>
+    
+      <category term="排序算法" scheme="http://weicode.com/categories/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="排序算法" scheme="http://weicode.com/tags/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>冒泡排序算法</title>
